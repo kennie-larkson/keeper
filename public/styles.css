@@ -45,6 +45,7 @@
     float: left;
   }
   .note h1 {
+    color: chartreuse;
     font-size: 1.1em;
     margin-bottom: 6px;
   }
@@ -55,3 +56,6 @@
     word-wrap: break-word;
   }
   
+  .badge p {
+    color: crimson;
+  }
