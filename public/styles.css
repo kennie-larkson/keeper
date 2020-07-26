@@ -45,7 +45,7 @@
     float: left;
   }
   .note h1 {
-    color: chartreuse;
+    /* color: chartreuse; */
     font-size: 1.1em;
     margin-bottom: 6px;
   }
